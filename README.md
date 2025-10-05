@@ -39,6 +39,7 @@ Easy to adapt or extend to support more environments.
 ## 🛠️ Installation & Usage
 
 Instructions on how to install and use the tool can be added here — such as cloning the repo, running a Python script, installing browser extensions, etc.
-`git clone https://github.com/yourusername/hurrah-typer.git
+```
+git clone https://github.com/yourusername/hurrah-typer.git
 pip install requirements.txt
-python UI.py`
+python UI.py
