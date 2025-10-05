@@ -11,7 +11,7 @@ Uses AI to understand the problem and generate the appropriate solution.
 
 Simulates real typing to auto-fill the code editor or input field.
 
-## 🛑 Pause & Edit
+### 🛑 Pause & Edit
 
 Pause the auto-typing at any time.
 
@@ -19,17 +19,17 @@ Modify the code or answer as needed.
 
 Resume typing from where you left off — seamless control.
 
-## 🔄 ## Dual Mode Support
+### 🔄 Dual Mode Support
 
 Code Mode: For solving programming problems, algorithmic challenges, etc.
 
 Quiz Mode: For answering multiple-choice or short-answer technical quizzes.
 
-## ⚙️ ## LLM Integration
+### ⚙️ LLM Integration
 
 Integrated with a Large Language Model (like ChatGPT or similar) to ensure high-quality, contextual code or answers.
 
-🎯 ## Platform Agnostic
+### 🎯 Platform Agnostic
 
 Works on most browser-based coding practice platforms.
 
