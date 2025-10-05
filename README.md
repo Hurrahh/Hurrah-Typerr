@@ -35,10 +35,10 @@ Works on most browser-based coding practice platforms.
 
 Easy to adapt or extend to support more environments.
 
-### 🔑 Activation
+## 🔑 Activation
 
 To activate the LLM functionality, first visit Hugging Face Tokens [(https://huggingface.co/settings/tokens)]
-, generate your access token, and then paste the token into the #### llm.py file in the designated place. This token allows Hurrah Typer to securely access the language model API and provide you with accurate code generation.
+Generate your access token, and then paste the token into the #### llm.py file in the designated place. This token allows Hurrah Typer to securely access the language model API and provide you with accurate code generation.
 
 
 ## 🛠️ Installation & Usage
@@ -48,3 +48,7 @@ Instructions on how to install and use the tool can be added here — such as cl
 git clone https://github.com/yourusername/hurrah-typer.git
 pip install requirements.txt
 python UI.py
+```
+## 🤝 Contributing
+
+Contributions are welcome! Feel free to open issues, create feature requests, or submit pull requests.
