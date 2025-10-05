@@ -34,3 +34,11 @@ Integrated with a Large Language Model (like ChatGPT or similar) to ensure high-
 Works on most browser-based coding practice platforms.
 
 Easy to adapt or extend to support more environments.
+
+
+## 🛠️ Installation & Usage
+
+Instructions on how to install and use the tool can be added here — such as cloning the repo, running a Python script, installing browser extensions, etc.
+git clone https://github.com/yourusername/hurrah-typer.git
+pip install requirements.txt
+python UI.py
